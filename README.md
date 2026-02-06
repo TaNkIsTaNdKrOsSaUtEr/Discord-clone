@@ -8,7 +8,6 @@
 
 Полнофункциональный клон Discord с открытым исходным кодом. Поддерживает текстовые сообщения, голосовые вызовы, создание серверов и каналов.
 
-![Discord Clone Interface](https://via.placeholder.com/800x500/36393f/ffffff?text=Discord+Clone+Screenshot)
 
 ## ✨ Особенности
 
