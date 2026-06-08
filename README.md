@@ -1,9 +1,11 @@
 
 # Discord Clone
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.x-brightgreen)](https://vuejs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org/)
+[![License: MIT]
+
+[![Vue.js]
+
+[![Node.js]
 
 Полнофункциональный клон Discord с открытым исходным кодом. Поддерживает текстовые сообщения, голосовые вызовы, создание серверов и каналов.
 
